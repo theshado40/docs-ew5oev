@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-mm5npp.hartawin.site/sitemap.xml
